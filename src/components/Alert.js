@@ -11,6 +11,7 @@ const Alert = ({ setIsHidden }) => {
     >
       <div className="z-20 flex justify-center items-center bg-slate-200  w-2/3 h-1/3">
         <h1>Hello, world!</h1>
+        filer
       </div>
     </motion.div>
   );
